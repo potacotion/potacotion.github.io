@@ -65,4 +65,16 @@
         <tag>机场</tag>
       </tags>
   </entry>
+  <entry>
+    <title>github免费节点(最后一次测试6月13日时仍有可用节点)</title>
+    <url>/2024/06/13/github-free-vpn/</url>
+    <content><![CDATA[<h2 id="github免费节点"><a href="#github免费节点" class="headerlink" title="github免费节点"></a>github免费节点</h2><p>免费的节点，不太稳定，建议备用</p>
+<h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p><a href="https://github.com/chengaopan/AutoMergePublicNodes?tab=readme-ov-file">https://github.com/chengaopan/AutoMergePublicNodes?tab=readme-ov-file</a><br><a href="https://github.com/mahdibland/V2RayAggregator?tab=readme-ov-file">https://github.com/mahdibland/V2RayAggregator?tab=readme-ov-file</a></p>
+<h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><p>这里以HIddify做示范，其他工具如操作类似<br><img src="/2024/06/13/github-free-vpn/1.png"><br>然后找到这里右击找到链接地址复制<br><img src="/2024/06/13/github-free-vpn/2.png"><br>最后打开软件选择从剪贴板添加<br><img src="/2024/06/13/github-free-vpn/3.png"></p>
+]]></content>
+      <tags>
+        <tag>机场</tag>
+        <tag>节点</tag>
+      </tags>
+  </entry>
 </search>
